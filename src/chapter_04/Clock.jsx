@@ -1,10 +1,11 @@
-﻿import React from "react"
+import React from "react"
 
 function Clock() {
     return (
         <div>
             <h1>안녕, 리액트!</h1>
             <h2>현재 시간 : {new Date().toLocaleTimeString()}</h2>
+            <h3>Have a nice day!</h3>
         </div>
     );
 }
