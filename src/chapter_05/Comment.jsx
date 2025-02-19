@@ -14,7 +14,7 @@ const styles = {
         width : 50, height : 50, borderRadius: 25,
     },
     contentContainer : {
-        marginLeft : 8, displayu : "flex", flexDirection : "column", justifyContent : "center",
+        marginLeft : 8, display : "flex", flexDirection : "column", justifyContent : "center",
     },
     nameText : {
         color : "black", fontSize : 16, fontWeight : "bold",
